@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\obj\Debug\net6.0\Exp002.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\obj\Debug\net6.0\Exp002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\obj\Debug\net6.0\Exp002.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\obj\Debug\net6.0\Exp002.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\obj\Debug\net6.0\Exp002.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\bin\Debug\net6.0\Exp002.exe
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\bin\Debug\net6.0\Exp002.deps.json
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\bin\Debug\net6.0\Exp002.runtimeconfig.json
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\bin\Debug\net6.0\Exp002.dll
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\bin\Debug\net6.0\Exp002.pdb
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\obj\Debug\net6.0\Exp002.dll
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\obj\Debug\net6.0\refint\Exp002.dll
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\obj\Debug\net6.0\Exp002.pdb
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\obj\Debug\net6.0\Exp002.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\homework03\Examples02\Exp002\obj\Debug\net6.0\ref\Exp002.dll
